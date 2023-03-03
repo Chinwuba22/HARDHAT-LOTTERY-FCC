@@ -38,8 +38,8 @@ module.exports = {
                 network: "goerli",
                 chainId: 5,
                 urls: {
-                    apiURL: "https://eth-goerli.g.alchemy.com/v2/ld8QKYfEEM1LOVLi1udrfJiI1aZosdFO",
-                    browserURL: "https://goerli.etherscan.io",
+                    apiURL: "https://api-goerli.etherscan.io/api",
+                    browserURL: "https://goerli.etherscan.io/",
                 },
             },
         ],
